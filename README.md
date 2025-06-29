@@ -6,5 +6,7 @@ AI based Letter Level Sign Recognition for deaf people and students, that fills 
 <br>
 
 As English has total-26 alphabet, In sign laguage 24 are isolated sign laguage(ISL) and 2 are continous sign laguage(CSL).
+
 <br>
+
 ![Letter_american_sign_language](https://github.com/user-attachments/assets/760b2142-9a44-4737-88e3-d02f35a54211)
